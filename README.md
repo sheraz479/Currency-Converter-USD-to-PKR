@@ -1,6 +1,3 @@
-# Currency-Converter-USD-to-PKR
-A simple web-based currency converter that allows users to convert US Dollars (USD) into Pakistani Rupees (PKR) using a fixed exchange rate. Built with HTML, CSS, and JavaScript, this project is ideal for beginners learning how to create interactive web applications.
-
 # 💱 Currency Converter USD to PKR
 This is a beginner-friendly web application that converts US Dollars (USD) into Pakistani Rupees (PKR). It uses a fixed exchange rate and is built with HTML, CSS, and JavaScript.
 
