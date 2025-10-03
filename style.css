@@ -1,0 +1,34 @@
+.container{
+    background-color: rgb(217, 234, 234);
+    border: 2px solid black;
+    height: 250px;
+    width: 300px;
+    margin: auto;
+    text-align: center;
+    margin-top: 50px;
+}
+h3{
+    color: red;
+}
+input{
+    height: 25px;
+    margin-top: 10px;
+    font-weight: bolder;
+    border: 2px solid black;
+    border-radius: 5px;
+    padding-left: 10px;
+}
+.result{
+    height: 30px;
+    width: 200px;
+    margin: auto;
+    margin-top: 20px;
+    background-color: white;
+    font-weight: bolder;
+}
+button{
+    margin: 30px;
+    border: 2px solid;
+    border-radius: 5px;
+    color: rgb(2, 2, 11);
+}
